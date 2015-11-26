@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+  <catalogTemplate>
+    <banner>
+      <title>JavaZone</title>
+    </banner>
+
+    <list>
+      <section>
+        <listItemLockup>
+          <title>Search</title>
+        </listItemLockup>
+      </section>
+      <section>
+        <header>
+          <title>Conferences</title>
+          <description>Videos by year</description>
+        </header>
+        <listItemLockup>
+          <title>JavaZone 2015</title>
+          <decorationLabel>155</decorationLabel>
+          <relatedContent>
+            <grid>
+              <section>
+                <lockup videoURL="https://vimeo.com/49305645">
+                  <img src="https://i.vimeocdn.com/video/340155932_640.jpg" width="480" height="270"/>
+                  <title>Cakes and diesel fuel - What every developer needs to know about application security</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49309472">
+                  <img src="https://i.vimeocdn.com/video/340173847_640.jpg" width="480" height="270"/>
+                  <title>Continuous delivery - is it possible - the experience</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49477307">
+                  <img src="https://i.vimeocdn.com/video/341417194_640.jpg" width="480" height="270"/>
+                  <title>Enterprise Integration and Batch Processing on Cloud Foundry</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49477309">
+                  <img src="https://i.vimeocdn.com/video/341386395_640.jpg" width="480" height="270"/>
+                  <title>Et rammeverk til besvær?</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49298213">
+                  <img src="https://i.vimeocdn.com/video/340097163_640.jpg" width="480" height="270"/>
+                  <title>Functional Programming You Already Know</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49478285">
+                  <img src="https://i.vimeocdn.com/video/341394293_640.jpg" width="480" height="270"/>
+                  <title>Git From the Bits Up</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49386944">
+                  <img src="https://i.vimeocdn.com/video/340754805_640.jpg" width="480" height="270"/>
+                  <title>Hazelcast: Open Source In-Memory Data Grid</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49324970">
+                  <img src="https://i.vimeocdn.com/video/340281182_640.jpg" width="480" height="270"/>
+                  <title>How about learning f***ing programming?</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49392437">
+                  <img src="https://i.vimeocdn.com/video/340770162_640.jpg" width="480" height="270"/>
+                  <title>Hypermediadrevet API i praksis</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49367413">
+                  <img src="https://i.vimeocdn.com/video/340592987_640.jpg" width="480" height="270"/>
+                  <title>Import Continuous Delivery</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49482881">
+                  <img src="https://i.vimeocdn.com/video/341427978_640.jpg" width="480" height="270"/>
+                  <title>Liquibase, the forgotten tool</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49324971">
+                  <img src="https://i.vimeocdn.com/video/340290274_640.jpg" width="480" height="270"/>
+                  <title>Lisp er vakkert!</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49375217">
+                  <img src="https://i.vimeocdn.com/video/340655678_640.jpg" width="480" height="270"/>
+                  <title>Networks for Programmers</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49368449">
+                  <img src="https://i.vimeocdn.com/video/340608511_640.jpg" width="480" height="270"/>
+                  <title>Panel: Making the programming pain stop</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49384336">
+                  <img src="https://i.vimeocdn.com/video/340714897_640.jpg" width="480" height="270"/>
+                  <title>Patterns for key-value stores</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49307944">
+                  <img src="https://i.vimeocdn.com/video/340167143_640.jpg" width="480" height="270"/>
+                  <title>RESS - Responsive Design + Serverside Components</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49483632">
+                  <img src="https://i.vimeocdn.com/video/341445290_640.jpg" width="480" height="270"/>
+                  <title>RESTful security</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49484334">
+                  <img src="https://i.vimeocdn.com/video/341451582_640.jpg" width="480" height="270"/>
+                  <title>Real Agile: How Real Tests Lead to Real Progress</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49444703">
+                  <img src="https://i.vimeocdn.com/video/341200062_640.jpg" width="480" height="270"/>
+                  <title>Running Java, Play! and Scala Apps on the Cloud</title>
+                </lockup>
+
+                <lockup videoURL="https://vimeo.com/49308353">
+                  <img src="https://i.vimeocdn.com/video/340169757_640.jpg" width="480" height="270"/>
+                  <title>SASS - En løsning på css-rotet</title>
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+        <listItemLockup>
+          <title>JavaZone 2014</title>
+          <decorationLabel>146</decorationLabel>
+        </listItemLockup>
+        <listItemLockup>
+          <title>JavaZone 2013</title>
+          <decorationLabel>148</decorationLabel>
+        </listItemLockup>
+        <listItemLockup>
+          <title>JavaZone 2012</title>
+          <decorationLabel>149</decorationLabel>
+        </listItemLockup>
+      </section>
+    </list>
+  </catalogTemplate>
+</document>
