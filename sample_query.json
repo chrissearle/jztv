@@ -1,0 +1,38 @@
+{
+  "query": {
+    "filtered": {
+      "filter": {
+        "bool": {
+          "must": {
+            "term": {
+              "state": "approved"
+            }
+          },
+          "must": {
+            "term": {
+              "published": true
+            }
+          },
+          "must": {
+            "exists": {
+              "field": "video"
+            }
+          }
+        }
+      },
+      "query": {
+        "match_all": {}
+      }
+    }
+  },
+  "size": 20,
+  "aggregations": {
+    "conferences": {
+      "terms": {
+        "field": "conference.raw",
+        "size": 10,
+        "order" : { "_term" : "desc" }
+      }
+    }
+  }
+}
